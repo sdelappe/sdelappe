@@ -1,6 +1,6 @@
-- 👋 Hi, I’m S. De Lappe
+- 👋 Hi, I’m Shawn De Lappe
 - 👀 I’m interested in learning and getting better at debugging.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on beginner projects.
 - 📫 How to reach me sdelappe57@gmail.com
 
