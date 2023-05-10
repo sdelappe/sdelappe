@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Shawn De Lappe
-- 👀 I’m interested in learning and getting better at debugging.
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on beginner projects.
-- 📫 How to reach me sdelappe57@gmail.com
+- 👋 Hi, I’m Shawn De Lappe,
+- I'm currently working on an app to help schools track their reengagement efforts.
+- I'm new to app development and am open to collaboration!
+- You can reach me at sdelappe57@gmail.com.
 
 <!---
 sdelappe/sdelappe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
